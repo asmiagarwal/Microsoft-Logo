@@ -1,8 +1,7 @@
 # Microsoft-Logo-Turtle
 
-**Install this module in Command Prompt or a Terminal
 
-
+# Microsoft-Logo-Turtle
 'pip install turtle'
 
 
